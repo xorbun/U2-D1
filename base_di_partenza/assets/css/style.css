@@ -178,6 +178,20 @@ footer {
 footer a {
     color: fuchsia;
 }
+
+@media screen and (min-width:820px)
+{
+    table
+    {
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+    }
+    
+}
+
+
+
 @media screen and (min-width:1280px) 
 {
   
@@ -253,6 +267,8 @@ footer a {
         text-align: left;
         
     }
+   
 }
+
 
 
