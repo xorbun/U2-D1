@@ -277,8 +277,9 @@ footer a {
     {
         
         display: inline-block;
-        padding-right: 6em;
+        width: 33%;
         text-align: left;
+       
         
     }
    
